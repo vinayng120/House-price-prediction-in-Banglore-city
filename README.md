@@ -1,1 +1,1 @@
-# vinayng120-House-price-prediction-in-Banglore-city
+# House-price-prediction-in-Banglore-city
